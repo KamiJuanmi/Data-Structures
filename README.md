@@ -19,6 +19,6 @@ get it using the makefile or contact me or my partner through e-mail.
 
 Programmers:
 
-Juan Miguel Montañez Moreno --> kamijuanmi@gmail.com
+Juan Miguel Montañez Moreno --> juanmiuniversidad@gmail.com
 
 Adrián José Martínez Navarro --> admartnav@gmail.com
